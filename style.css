@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+
+
+.body{
+    width: 786px;
+    height: 659px;
+    border: 1px solid;
+    margin: 0 auto;
+
+
+}
+.head{
+    width: 786px;
+    height: 73px;
+    background-color: #f3f3f3;
+}
+.head h2{
+    line-height: 73px;
+    margin-left: 28px;
+}
+.box1{
+    width: 420px;
+    height: 75px;
+    margin: 0 auto;
+    overflow: hidden;
+
+}
+.box1 p{
+    font-family: 宋体;
+    font-size: 20px;
+    margin-top: 45px;
+    font-weight: bold;
+}
+.box2 input{
+    display:block;
+    height:41px ;
+    width: 420px;;
+    margin: 0 auto;
+
+}
+.box3{
+    width: 420px;
+    height: 58px;
+    margin: 0 auto;
+}
+.box3 .mima{
+    float: left;
+    line-height: 58px;
+}
+.box3 .wangji{
+    float: right;
+    line-height: 58px;
+
+}
+.box3 .wangji span{
+    color: #009a61;
+    font-weight: bold;
+}
+.box3 .mima span{
+    font-weight: bold;
+}
+.box4 input{
+    display:block;
+    height:41px ;
+    width: 420px;;
+    margin: 0 auto;
+
+}
+.shouji{
+    margin: 25px 188px;
+}
+.shouji span{
+    color: #009a61;
+    font-weight: bold;
+}
+.denglu{
+    width: 422px;
+    height: 41px;
+    background-color: #009a61;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 41px;
+    a:hover {color:red;}
+    a:active {color:black;
+    }
+    .denglu a{
+        text-decoration: none;
+    }
+
+    
+}
+.gengduo{
+
+    margin: 20px auto;
+    text-align: center;
+    text-decoration: none;
+}
+.p1 img{
+    display: inline-block;
+    padding-left: 200px;
+}
+.zhuce{
+    width: 422px;
+    height: 41px;
+    margin: 34px auto 27px;
+    text-align: center;
+    line-height: 41px;
+    border: 1px solid;
+}
+.jieshu{
+    text-align: center;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+a:hover{
+    background-color: blue;
+}
+.x{
+    float: right;
+    margin-top: 20px;
+}
